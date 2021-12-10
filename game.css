@@ -85,3 +85,12 @@
     position: absolute;
     display: none;
 }
+@media screen and (min-width:0px) and (max-width:500px){
+    #gameinfo h3{
+        text-align: center;
+    }
+    #navbar{
+        text-align: center;
+        height: 62px;
+    }
+}
